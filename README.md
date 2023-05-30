@@ -2,10 +2,10 @@
  
 Content
 
-About the Software
-Software Design
-Software Optimizations
-Software Diagrams
+About the Software                                                                                                                                                   
+Software Design                                                                                                                                                      
+Software Optimizations                                                                                                                                               
+Software Diagrams                                                                                                                                                    
 Flow of Control
 Entity Relationship Diagram
 Database Design
