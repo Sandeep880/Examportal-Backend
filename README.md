@@ -5,9 +5,9 @@ Content
 About the Software                                                                                                                                                   
 Software Design                                                                                                                                                      
 Software Optimizations                                                                                                                                               
-Software Diagrams                                                                                                                                                    
-Flow of Control
-Entity Relationship Diagram
+Software Diagrams                                                                                                                                                                                
+Flow of Control                                                                                                                                                   
+Entity Relationship Diagram                                                                                                                                       
 Database Design
 Relationships Among Table within Database
 Demonstration Images of the Software
